@@ -1,0 +1,25 @@
+
+body{
+    font: 20px Baskerville Old Face;
+}
+
+.navbar {
+    background-color:white;
+    font-family: Baskerville Old Face ;
+    margin-right: 150px;
+}
+
+.quem-somos {
+    background-color: #D8D8D8;
+    color: gray;
+
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    
+}
